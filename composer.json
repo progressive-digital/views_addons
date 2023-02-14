@@ -1,0 +1,17 @@
+{
+  "name": "progressive/views_addons",
+  "type": "drupal-custom-module",
+  "description": "Views addons.",
+  "keywords": [
+  ],
+  "homepage": "https://github.com/PROGRESSIVE-digital/views_addons",
+  "minimum-stability": "dev",
+  "support": {
+      "issues": "https://github.com/PROGRESSIVE-digital/views_addons/issues",
+      "source": "https://github.com/PROGRESSIVE-digital/views_addons"
+  },
+  "require": {
+  },
+  "require-dev": {
+  }
+}
