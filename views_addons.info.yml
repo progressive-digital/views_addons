@@ -1,0 +1,7 @@
+name: Views Addons
+type: module
+description: Adds some features to views.
+core_version_requirement: ^8 || ^9 || ^10
+package: Views
+dependencies:
+  - drupal:views
