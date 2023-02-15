@@ -1,6 +1,6 @@
 {
   "name": "progressive-digital/views_addons",
-  "type": "drupal-custom-module",
+  "type": "drupal-module",
   "description": "Views addons.",
   "keywords": [
   ],
