@@ -2,16 +2,20 @@
   "name": "progressive-digital/views_addons",
   "type": "drupal-module",
   "description": "Views addons.",
-  "keywords": [
-  ],
+  "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/progressive-digital/views_addons",
   "minimum-stability": "dev",
   "support": {
       "issues": "https://github.com/progressive-digital/views_addons/issues",
       "source": "https://github.com/progressive-digital/views_addons"
   },
-  "require": {
-  },
-  "require-dev": {
-  }
+  "authors": [
+    {
+      "name": "Guido Schmitz",
+      "homepage": "https://progressivedigital.de",
+      "role": "Developer"
+    }
+  ],
+  "require": {},
+  "require-dev": {}
 }
